@@ -91,4 +91,12 @@ No external installations required.
 This project is free to use, modify, and share.
 
 <img width="1919" height="998" alt="Screenshot 2025-12-10 134816" src="https://github.com/user-attachments/assets/796460f4-0483-45bc-be0a-3833bdd6d54b" />
+<img width="1861" height="979" alt="Screenshot 2025-12-10 134957" src="https://github.com/user-attachments/assets/36f511d9-ceb8-4272-b230-08095df82faa" />
+<img width="1865" height="1007" alt="Screenshot 2025-12-10 135227" src="https://github.com/user-attachments/assets/718fa62e-c9a9-4007-b965-99761103326c" />
+<img width="1919" height="921" alt="Screenshot 2025-12-10 135410" src="https://github.com/user-attachments/assets/3cce2bd0-079a-470a-920a-09c067e10fd8" />
+<img width="1919" height="847" alt="Screenshot 2025-12-10 135435" src="https://github.com/user-attachments/assets/a2083978-c3fe-4127-950c-0d3408d3edec" />
+<img width="1890" height="983" alt="Screenshot 2025-12-10 135616" src="https://github.com/user-attachments/assets/ee7723bf-df6b-4f11-ba14-c3819f015e25" />
+
+
+
 
